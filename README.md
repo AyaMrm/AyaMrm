@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+-👋 I am AYA.
+-😄 I am interested in Cyber Security and Problem Solving.
+- 🌱 I am currently Learing java and BackEnd developement.
+
 <!--
 **AyaMrm/AyaMrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
