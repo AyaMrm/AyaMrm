@@ -1,7 +1,7 @@
 ## Hi there 👋
 
--👋 I am AYA. 
--😄 I am interested in Cyber Security and Problem Solving. 
+- 👋 I am AYA. 
+- 😄 I am interested in Cyber Security and Problem Solving. 
 - 🌱 I am currently Learing java and BackEnd developement.
 
 <!--
