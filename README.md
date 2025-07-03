@@ -1,11 +1,10 @@
 ## Hi there 👋
 
 - 👋 I am AYA. 
-- 😄 I am interested in Cyber Security and Problem Solving. 
-- 🌱 I am currently Learing java and BackEnd developement.
 
 # 💫 About Me:
-😄 I am interested in Cyber Security and Problem Solving.<br>🌱 I am currently Learing java and BackEnd developement.
+- 😄 I am interested in Cyber Security and Problem Solving.<br>
+- 🌱 I am currently Learing java and BackEnd developement.
 
 
 ## 🌐 Socials:
