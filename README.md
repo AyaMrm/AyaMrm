@@ -1,6 +1,4 @@
-## Hi there 👋
-
-- 👋 I am AYA. 
+## Hi there, I am AYA. 👋
 
 # 💫 About Me:
 - 😄 I am interested in Cyber Security and Problem Solving.<br>
